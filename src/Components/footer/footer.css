@@ -1,0 +1,14 @@
+.txtt{
+    padding-top: 1rem;
+
+    text-align: center;
+}
+
+.foot{
+    background-color: var(--color-primary);
+    height: 30vh;
+}
+
+#sect{
+    height: 30vh;
+}
